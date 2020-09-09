@@ -1,0 +1,36 @@
+
+		body{
+			background-color:white;
+		}
+          
+		div.table{
+			background:  #c0c0c0;
+			padding: 30px;
+			width: 500px;
+			margin:auto;
+			font-size: 20px;
+			color: white;
+			font-family: verdana; 
+			height: 300px;
+			overflow-y:scroll; 
+            
+		}
+		input{
+			width: 100%;
+			padding: 5px;
+			margin-top: 20px;
+			font-size: 18px;
+			font-family: verdana;
+			border:none; 
+		}
+	input[type=submit]{
+		
+			width: 20%;
+			margin-left: 250px;
+			background: #000066;
+			color: white;
+			border: none;
+			padding: 10px;
+			border-radius: 5px;
+		}
+
